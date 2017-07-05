@@ -18,7 +18,7 @@ For a full list, visit https://github.com/cvhciKIT/sloth/releases
 
 ## Cynny Documentation - How to install and start sloth (tested on MacOS Sierra)
 
-###Install and start with Anaconda
+### Install and start with Anaconda
 ```
 conda create -n sloth python=2.7
 source activate sloth
